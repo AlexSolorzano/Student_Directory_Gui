@@ -1,2 +1,3 @@
 # Student_Directory_Gui
-Allows users to input and stores student objects on a file using a GUI
+Allows users to input and store student objects on a file using a GUI
+
